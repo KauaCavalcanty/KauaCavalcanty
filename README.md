@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kaizen.wz)
 
 ![Kaizen´s GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaCavalcanty&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaCavalcanty&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que mais uso no meu dia a dia
