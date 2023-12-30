@@ -15,4 +15,5 @@
      <img style="display: inline-block; margin: 10px;" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
+
 Em desenvolvimento e aperfeiçoamento na área tecnológica, a qual sempre foi meu grande sonho de atuar, um ambiente onde o aprendizado é continuo e árduo, sobretudo, gratificante. No momento ainda sou iniciante mas estou me empenhando para me tornar um renomado profissional em breve.
